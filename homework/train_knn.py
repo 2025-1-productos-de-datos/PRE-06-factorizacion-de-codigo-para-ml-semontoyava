@@ -1,10 +1,3 @@
-#
-# Busque los mejores parametros de un modelo knn para predecir
-# la calidad del vino usando el dataset de calidad del vino tinto de UCI.
-#
-# Considere diferentes valores para la cantidad de vecinos
-#
-
 # importacion de librerias
 import pandas as pd
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
